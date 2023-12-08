@@ -1,6 +1,8 @@
 **Project Name:**
 TorSearch
 
+![image](https://github.com/G0dsp/deep-searcher/assets/88639130/76ad1105-d57c-46f7-bdee-e4350920b3a3)
+
 **Description:**
 TorSearch is a web scraping tool designed to search and extract links from a specific search engine on the Tor network. It utilizes the Python `requests` and `re` libraries to make HTTP requests and extract links from the HTML content of the page. This project aims to provide a straightforward way to gather search links on the Tor network and save them in text files for further analysis.
 
